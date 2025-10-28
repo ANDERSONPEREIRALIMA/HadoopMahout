@@ -292,9 +292,9 @@ cd $MAHOUT_HOME
 mvn -DskipTests clean install
 ```
 
-## OBS: o ultimo comando acima vai demorar bastante para finalizar
+## OBS: o ultimo comando acima vai demorar bastante para finaliza
 
-# Executando o codigo proposto no material da cruzeiro do sul.
+# Executando o codigo proposto.
 
 ## OBS: execute linha a linha.
 
